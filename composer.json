@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^2.2",
+        "vkcom/vk-php-sdk": "^5.101"
+    }
+}
